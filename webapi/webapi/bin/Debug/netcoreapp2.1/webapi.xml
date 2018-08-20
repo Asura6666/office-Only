@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>webapi</name>
+    </assembly>
+    <members>
+        <member name="M:webapi.Api.GoodsController.CreateGood(webapi.Services.IWebapiService,webapi.Services.Dto.ReceiveCreateGoodDto)">
+            <summary>
+             添加商品
+            </summary>
+            <param name="webapiService"></param>
+            <param name="dto">CreateGoodDto</param>
+            <returns></returns>
+        </member>
+        <member name="M:webapi.Api.GoodsController.DeleteGood(webapi.Services.IWebapiService,webapi.Services.Dto.DeleteGoodDto)">
+            <summary>
+            删除商品(非物理删除)
+            </summary>
+            <param name="webapiService"></param>
+            <param name="dto">DeleteGoodDto</param>
+            <returns></returns>
+        </member>
+        <member name="M:webapi.Api.GoodsController.AlterGood(webapi.Services.IWebapiService,webapi.Services.Dto.AlterGoodDto)">
+            <summary>
+            修改商品
+            </summary>
+            <param name="webapiService"></param>
+            <param name="dto">AlterGoodDto</param>
+            <returns></returns>
+        </member>
+        <member name="M:webapi.Api.GoodsController.OnlineGood(webapi.Services.IWebapiService,webapi.Services.Dto.OnlineGoodDto)">
+            <summary>
+            上架商品
+            </summary>
+            <param name="webapiService"></param>
+            <param name="dto">OnlineGoodDto</param>
+            <returns></returns>
+        </member>
+        <member name="M:webapi.Api.GoodsController.OfflineGood(webapi.Services.IWebapiService,webapi.Services.Dto.OnlineGoodDto)">
+            <summary>
+            下架商品
+            </summary>
+            <param name="webapiService"></param>
+            <param name="dto">OnlineGoodDto</param>
+            <returns></returns>
+        </member>
+        <member name="M:webapi.Api.GoodsController.ShowGoodDetail(webapi.Services.IWebapiService,webapi.Services.Dto.ReceiveShowGoodDetailDto)">
+            <summary>
+            显示商品详情
+            </summary>
+            <param name="webapiService"></param>
+            <param name="dto">ShowGoodDetailDto</param>
+            <returns></returns>
+        </member>
+        <member name="M:webapi.Api.GoodsController.ListGood(webapi.Services.IWebapiService,webapi.Services.Dto.ListReceiveDto)">
+            <summary>
+            列出指定商品
+            </summary>
+            <param name="webapiService"></param>
+            <param name="dto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:webapi.Api.TagsController.CreateTag(webapi.Services.IWebapiService,webapi.Services.Dto.CreateTagDto)">
+            <summary>
+            创建tag
+            </summary>
+            <param name="webapiService"></param>
+            <param name="dto">CreateTagDto</param>
+            <returns></returns>
+        </member>
+        <member name="M:webapi.Api.TagsController.DeleteTag(webapi.Services.IWebapiService,webapi.Services.Dto.DeleteTagDto)">
+            <summary>
+            删除tag(非物理删除)
+            </summary>
+            <param name="webapiService"></param>
+            <param name="dto">DeleteTagDto</param>
+            <returns></returns>
+        </member>
+        <member name="M:webapi.Api.TagsController.AlterTag(webapi.Services.IWebapiService,webapi.Services.Dto.AlterTagDto)">
+            <summary>
+            修改tag
+            </summary>
+            <param name="webapiService"></param>
+            <param name="dto">AlterTagDto</param>
+            <returns></returns>
+        </member>
+        <member name="M:webapi.Api.TagsController.ListTag(webapi.Services.IWebapiService)">
+            <summary>
+            选择列出tag
+            </summary>
+            <param name="webapiService"></param>
+            <param name="dto">ListTagDto</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

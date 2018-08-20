@@ -1,0 +1,12 @@
+D:\webApi\webapi\webapi.Services\bin\Debug\netstandard2.0\webapi.Services.deps.json
+D:\webApi\webapi\webapi.Services\bin\Debug\netstandard2.0\webapi.Services.dll
+D:\webApi\webapi\webapi.Services\obj\Debug\netstandard2.0\webapi.Services.csprojAssemblyReference.cache
+D:\webApi\webapi\webapi.Services\obj\Debug\netstandard2.0\webapi.Services.csproj.CoreCompileInputs.cache
+D:\webApi\webapi\webapi.Services\obj\Debug\netstandard2.0\webapi.Services.AssemblyInfoInputs.cache
+D:\webApi\webapi\webapi.Services\obj\Debug\netstandard2.0\webapi.Services.AssemblyInfo.cs
+D:\webApi\webapi\webapi.Services\bin\Debug\netstandard2.0\webapi.Services.pdb
+D:\webApi\webapi\webapi.Services\obj\Debug\netstandard2.0\webapi.Services.dll
+D:\webApi\webapi\webapi.Services\obj\Debug\netstandard2.0\webapi.Services.pdb
+D:\webApi\webapi\webapi.Services\bin\Debug\netstandard2.0\webapi.Repository.dll
+D:\webApi\webapi\webapi.Services\bin\Debug\netstandard2.0\webapi.Repository.pdb
+D:\webApi\webapi\webapi.Services\obj\Debug\netstandard2.0\webapi.Services.csproj.CopyComplete

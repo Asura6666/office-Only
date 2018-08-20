@@ -1,0 +1,9 @@
+D:\webApi\webapi\webapi.Repository\bin\Debug\netstandard2.0\webapi.Repository.deps.json
+D:\webApi\webapi\webapi.Repository\bin\Debug\netstandard2.0\webapi.Repository.dll
+D:\webApi\webapi\webapi.Repository\obj\Debug\netstandard2.0\webapi.Repository.csproj.CoreCompileInputs.cache
+D:\webApi\webapi\webapi.Repository\obj\Debug\netstandard2.0\webapi.Repository.AssemblyInfoInputs.cache
+D:\webApi\webapi\webapi.Repository\obj\Debug\netstandard2.0\webapi.Repository.AssemblyInfo.cs
+D:\webApi\webapi\webapi.Repository\bin\Debug\netstandard2.0\webapi.Repository.pdb
+D:\webApi\webapi\webapi.Repository\obj\Debug\netstandard2.0\webapi.Repository.dll
+D:\webApi\webapi\webapi.Repository\obj\Debug\netstandard2.0\webapi.Repository.pdb
+D:\webApi\webapi\webapi.Repository\obj\Debug\netstandard2.0\webapi.Repository.csprojAssemblyReference.cache
